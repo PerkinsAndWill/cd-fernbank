@@ -1,28 +1,35 @@
 {
-  "title":"Write the name of your script here",
-  "description":"Write a short description of what your script does here",
+  "title":"Fernbank Nature Preserve",
+  "description":"These Grasshopper scripts generate the wood louvers for two pavillions",
   "coverImage":"./_PW/cover.png",
   "authors":[{
-    "name":"Kyle Example",
-    "email":"kyle.example@example.com",
-    "role":"developer"
+    "name":"Jared Serwer",
+    "email":"Jared.Serwer@perkinswill.com",
+    "role":"designer"
+    "name":"Santiago Diaz",
+    "email":"Santiago.Diaz@perkinswill.com",
+    "role":"designer"
   }],
   "offices":[
-    "NewYork",
-    "SanFrancisco"
+    "Atlanta",
+    "Vancouver"
   ],
   "projects":[{
-    "name":"Example Project",
-    "number":"123456.000",
+    "name":"Fernbank Nature Preserve",
+    "number":"801345.000",
 	"marketSector":"CCC"
   }],
   "dependencies":[{
-    "author":"Autodesk",
-    "name":"Revit",
-    "version":"2016"
+    "author":"McNeel",
+    "name":"Grasshopper",
+    "version":"0.9.0076"
   }],
   "tags":[
-    "boilerplate",
-    "example"
+    "wood",
+    "louvers"
+    "unfolded'
+    "compound miter"
+    "fernbank"
+    "fabrication"
   ]
 }
