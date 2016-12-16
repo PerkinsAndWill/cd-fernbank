@@ -5,7 +5,8 @@
   "authors":[{
     "name":"Jared Serwer",
     "email":"Jared.Serwer@perkinswill.com",
-    "role":"designer",
+    "role":"designer"
+  },{
     "name":"Santiago Diaz",
     "email":"Santiago.Diaz@perkinswill.com",
     "role":"designer"
